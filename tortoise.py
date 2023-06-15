@@ -3,12 +3,11 @@ Ansh Menghani
 This is the Tortoise Slowloris DoS attack application.
 DISCLAIMER: Use this application at your own risk!
 The creator of this software is NOT in any way liable for the actions taken with this program.
-Enter the target IPv4 address you wish to DoS, the number of connections you wish to open with it, and how long you want to keep each connection open.'Ctrl+C' to quit.
+Enter the target IPv4 address you wish to DoS, the number of connections you wish to open with it, and how long you want to keep each connection open. 'Ctrl+C' to quit.
 """
 
 #import necessary modules
 import socket
-import struct
 import random
 import time
 
